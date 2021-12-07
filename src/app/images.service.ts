@@ -11,7 +11,7 @@ export class ServiceNameService {
 })
 export class ImagesService {
   API_URL = 'https://www.googleapis.com/customsearch/v1';
-  API_KEY = 'AIzaSyDRZFDd1Lr2Q_1Rh9W0RqMiyFoWqpPKl8I';
+  API_KEY = 'AIzaSyCA5qY2Gv-fnSlDZNYOreuIXsnK16igIso';
   CSEID = '238f033fe8369b3e3';
 
   constructor(private http: HttpClient) {}
